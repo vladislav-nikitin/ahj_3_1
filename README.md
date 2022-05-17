@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/0amqdnv4jbn3rn31?svg=true)](https://ci.appveyor.com/project/vladislav-nikitin/ahj-3-1)
+
 Правила сдачи задания:
 
 1. **Важно**: в рамках этого ДЗ нужно использовать менеджер пакетов yarn (а значит, никакого `package-lock.json` в репозитории быть не должно)
@@ -9,7 +11,7 @@
 
 ### Игра с гоблинами
 
-![](./pic/GracefulMiniatureBustard-small.gif)
+![](./img/GracefulMiniatureBustard-small.gif)
 
 #### Легенда
 
